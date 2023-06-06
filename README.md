@@ -1,7 +1,7 @@
-<h1 align="center">Projeto - IgniteShop</h1>
+<h1 align="center">Projeto - Feedback Plugin</h1>
 <br>
 <p align="center">
-  <img alt="screen" src="./readme.png" width="80%">
+  <img alt="screen" src="./readme.gif" width="80%">
 </p>
 > trata-se de projeto efetuado como plugin para qualquer site ou app, que serve como sistema de feedback para empresa.
 
